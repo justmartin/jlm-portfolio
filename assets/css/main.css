@@ -1,8 +1,52 @@
-nav {
+html {
+	font-family: 'Raleway', sans-serif;
+}
+
+nav, footer.page-footer  {
 	background-color: white;
 
 }
 
 nav ul a, nav .brand-logo {
 	color: #800000;
+}
+
+footer.page-footer {
+	margin-top: 0px;
+}
+
+.grey-text {
+	color: #800000 !important;
+}
+
+.grey-text.text-lighten-4, .grey-text.text-lighten-3, footer.page-footer .footer-copyright {
+	color: #800000 !important;
+}
+
+.maroon{
+	background-color: #800000 !important;
+}
+
+.maroon-text{
+	color: #800000 !important;
+}
+
+.light-grey {
+	background-color: rgba(51, 51, 51, 0.08) !important; 
+}
+
+.dropdown-content li > a, .dropdown-content li > span {
+	color: #800000;
+}
+
+.justify {
+	text-align: justify;
+}
+
+.container {
+	width: 90%;
+}
+
+.parallax-container {
+	height: 800px;
 }
