@@ -43,10 +43,17 @@ footer.page-footer {
 	text-align: justify;
 }
 
-.container {
-	width: 90%;
+.parallax-container {
+	height: 575px;
 }
 
-.parallax-container {
-	height: 800px;
+.parallax img {
+	width: 100%;
 }
+
+
+
+
+
+
+
